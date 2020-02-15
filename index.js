@@ -1,3 +1,4 @@
+console.log("search");
 console.log("test");
 console.log("test2");
 let obj = {};
