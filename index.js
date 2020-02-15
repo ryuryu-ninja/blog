@@ -5,6 +5,7 @@ let obj = {};
 obj.param1 = [1,2,3,4];
 console.log(obj);
 console.log("mod for release branch");
+console.log("hotfix 1.0.1");
 
 class test {
 
